@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnuvatina&label=Profile%20views&color=0e75b6&style=flat" alt="tasnuvatina" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Blockchain in Golang**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**,**Vue.js**,**Javascript**,**Typescript**,**Golang**
 
 - 📫 How to reach me **tasnuvarahman1996@gmail.com**
 
